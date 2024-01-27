@@ -16,6 +16,7 @@ public class transWithoutThirdMatrix {
                 a[j][i]= temp;
             }
         }
+        System.out.println("90 degree rotate array is");
         for (int i = 0; i < m; i++) {
             for (int j = m-1; j >=0; j--) {    // reverse (   90 degree rotate array)
                 System.out.print(a[i][j]+" ");
