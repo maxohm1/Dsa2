@@ -9,7 +9,7 @@ public class DiagonalTranspose {
             }
             System.out.println();
         }
-        System.out.println();
+        System.out.println("this is Transpose of matrix");
     }
 
     public static void main(String[] args) {
