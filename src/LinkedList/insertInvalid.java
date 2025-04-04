@@ -1,4 +1,3 @@
-package LinkedList;
 
 class Invalid{
     Node head;
